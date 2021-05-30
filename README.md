@@ -40,11 +40,3 @@ Example communication
 	       ______|0 0|______   /////// //\\ \\\\\\\   ______|0 0|______
 	        \| | |   |  | |/  //   // //  \\    \\     \| | |   |  | |/
 	          \|..\./...|/   /////// ////\\\\    \\      \|..\./...|/
-
-
-Hints
------
-
-The module can also be used for other than telnet connections, for example you can connect to HTTP port, send a HTTP request and receive a response.
-
-I made a 3D printable case for the C64: http://www.thingiverse.com/thing:1545605 If you build it for any other device you can use any generic case because you need room for a RS232 level converter such as MAX232, and you do not need holes for any rare connectors.
