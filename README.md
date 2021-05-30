@@ -48,10 +48,3 @@ Hints
 The module can also be used for other than telnet connections, for example you can connect to HTTP port, send a HTTP request and receive a response.
 
 I made a 3D printable case for the C64: http://www.thingiverse.com/thing:1545605 If you build it for any other device you can use any generic case because you need room for a RS232 level converter such as MAX232, and you do not need holes for any rare connectors.
-
-Future plans and status
------------------------
-
-* It seems quite complete for me but please send ideas.
-* I tested huge transfers with ZModem, seems to be working. Remember to use -e parameter with sz and rz if using over a telnetd.
-* Serial multiplayer game of Doom (sersetup.exe) seems to be also working. Remember to use ATNET0 when playing serial games, also on DosBox emulator if it's the other host.
