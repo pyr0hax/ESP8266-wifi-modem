@@ -1,5 +1,6 @@
 Virtual modem for ESP8266
 =========================
+Copyright (C) 2015 Jussi Salin salinjus@gmail.com under GPLv3 license.
 
 Overview
 --------
